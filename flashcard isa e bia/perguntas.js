@@ -1,8 +1,3 @@
-criaCartao(
-    categoria,
-    pergunta,
-    resposta
-)
 
 
 criaCartao(
