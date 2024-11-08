@@ -1,12 +1,12 @@
 :root {
 --text-color: #dbe4ef;
 --card-front-color: #144480;
---card-back-color: rgba(0, 244, 191, 1);
+--card-back-color: 144480;
 }
 
 body {
     background: url('img/bg-desktop.webp');
-    font-family: bai jumjuree;
+    font-family: bai jamjuree;
 }
 
 footer {
@@ -113,5 +113,8 @@ footer p {
         font-size: 3.8vw;
     }
 }
+
+
+
 
 
